@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-react-quest/static/css/main.940f4c41.css",
+    "main.js": "/basic-react-quest/static/js/main.51602207.js",
+    "static/js/787.b71f52f5.chunk.js": "/basic-react-quest/static/js/787.b71f52f5.chunk.js",
+    "index.html": "/basic-react-quest/index.html",
+    "main.940f4c41.css.map": "/basic-react-quest/static/css/main.940f4c41.css.map",
+    "main.51602207.js.map": "/basic-react-quest/static/js/main.51602207.js.map",
+    "787.b71f52f5.chunk.js.map": "/basic-react-quest/static/js/787.b71f52f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.940f4c41.css",
+    "static/js/main.51602207.js"
+  ]
+}
