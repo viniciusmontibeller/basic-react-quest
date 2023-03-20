@@ -1,0 +1,10 @@
+.highlighted-text{
+    background-color: grey;
+    padding: 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 500px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
