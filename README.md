@@ -15,7 +15,7 @@ This is a challange proposed by DevQuest with the objective exercice React
 
 ## Solution link
 
-- Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/projeto-inicial-fetch-github-api/)
+- Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/basic-react-quest/)
 
 ## Build with
 
